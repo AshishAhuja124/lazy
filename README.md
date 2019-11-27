@@ -1,4 +1,4 @@
-I have created a fake server to serve as a backend
+I have created a fake online REST Api
 to install run these commands in your folder
 
 npm install -g json-server 
